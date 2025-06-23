@@ -1,0 +1,13 @@
+list nhạc:
+  - name: "Nhạc Trẻ"
+    description: "Những bản nhạc trẻ hay nhất hiện nay."
+    songs:
+      - title: "Bước Qua Đời Nhau"
+        artist: "Hà Anh Tuấn"
+        duration: "4:30"
+      - title: "Có Chàng Trai Viết Lên Cây Đàn"
+        artist: "Phan Mạnh Quỳnh"
+        duration: "3:45"
+
+  - name: "Nhạc Bolero"
+    description: "Những bản bolero trữ tình sâu lắng."
